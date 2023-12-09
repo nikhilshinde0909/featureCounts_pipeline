@@ -1,0 +1,5 @@
+//The gtf blocks and aligned bam
+out_name="RTX430_Leaf"
+gtf_Anno_KPCT="data/sbicolor_btx623.exons.gtf"
+gtf_Anno_Lnc="data/RTX430-final-lncs.gtf"
+aligned_bam="data/SRR8742861.bam data/SRR8742862.bam data/SRR8742863.bam"
