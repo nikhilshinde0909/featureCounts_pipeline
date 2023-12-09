@@ -1,4 +1,0 @@
-//The gtf and aligned bam files
-out_name=""
-gtf_Anno_KPCT=""
-gtf_Anno_Lnc=""
